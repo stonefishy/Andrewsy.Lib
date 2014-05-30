@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrewsy.Lib.AsyncDll", "Andrewsy.Lib.AsyncDll\Andrewsy.Lib.AsyncDll.csproj", "{722D2845-4869-4DC4-B7E9-D2AF415046E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrewsy.Lib.WinForm.Controls", "Andrewsy.Lib.WinForm.Controls\Andrewsy.Lib.WinForm.Controls.csproj", "{5775B7D9-BCA0-43B2-B2B8-30037ABF1CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrewsy.Lib.Util", "Andrewsy.Lib.Util\Andrewsy.Lib.Util.csproj", "{439F3C2F-25FA-4596-B540-87451D7AD99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722D2845-4869-4DC4-B7E9-D2AF415046E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D2845-4869-4DC4-B7E9-D2AF415046E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D2845-4869-4DC4-B7E9-D2AF415046E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D2845-4869-4DC4-B7E9-D2AF415046E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5775B7D9-BCA0-43B2-B2B8-30037ABF1CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5775B7D9-BCA0-43B2-B2B8-30037ABF1CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5775B7D9-BCA0-43B2-B2B8-30037ABF1CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5775B7D9-BCA0-43B2-B2B8-30037ABF1CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439F3C2F-25FA-4596-B540-87451D7AD99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439F3C2F-25FA-4596-B540-87451D7AD99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439F3C2F-25FA-4596-B540-87451D7AD99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439F3C2F-25FA-4596-B540-87451D7AD99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
